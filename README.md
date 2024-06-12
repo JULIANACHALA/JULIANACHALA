@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm JULIANA CHALA</h1>
-<h3 align="center">Soy un frontend apacionado</h3>
+<h1 align="center">Hi 👋, I'm PROGAMEITOR</h1>
+<h3 align="center">ME GUSTA DAR ESTILOS EN CSS</h3>
 
 - 💬 Ask me about **html,css, javascript y php**
 
